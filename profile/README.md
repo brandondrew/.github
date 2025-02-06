@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap.
+  Tabler is a free and open-source HTML Dashboard UI Kit built on Bootstrap.
 </p>
 
 <p align="center">
